@@ -11,4 +11,4 @@ Repositorio para los entregables del curso electivo Big Data de la Maestria en A
 - Dask - ECMWF [[ver]](https://nbviewer.jupyter.org/github/BoMartinez/BigData-course/blob/main/tareas/ECMWF.ipynb)
 - Dask - Github Archive [[ver]](https://nbviewer.jupyter.org/github/BoMartinez/BigData-course/blob/main/tareas/GitArchive.ipynb)
 - Dask - NYC311 [[ver]](https://nbviewer.jupyter.org/github/BoMartinez/BigData-course/blob/main/tareas/NYC311.ipynb)
-- Dask - NYC311 [[ver]](https://nbviewer.jupyter.org/github/BoMartinez/BigData-course/blob/main/tareas/NYCTaxi.ipynb)
+- Dask - NYCTaxi [[ver]](https://nbviewer.jupyter.org/github/BoMartinez/BigData-course/blob/main/tareas/NYCTaxi.ipynb)
